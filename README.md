@@ -12,7 +12,7 @@ AttendyApp es una aplicación móvil nativa para Android que permite a docentes 
 
 ### Pasos
 **1. Descarga el APK**
-Ve a la sección [**Releases**](./releases) de este repositorio y descarga el archivo `AttendyApp.apk` en tu dispositivo Android.
+Ve a la sección [**Releases**](https://github.com/osrmoi/app-asistencia/releases) de este repositorio y descarga el archivo `AttendyApp.apk` en tu dispositivo Android.
  
 **2. Permite la instalación de fuentes desconocidas**
 Como el APK no proviene de la Play Store, Android te pedirá autorización para instalarlo. Dependiendo de tu versión de Android:
